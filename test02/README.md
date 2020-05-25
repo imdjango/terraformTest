@@ -1,4 +1,4 @@
-# 2nd VPC of User14's terraform test
+# VPC#02 of User14's terraform test
 ```
 region: eu-west-3
 vpc: 114.0.0.0/16
@@ -26,6 +26,5 @@ subnet2: 114.0.2.0/24
     .8080 포트 부하분산 (done)
 (5) 보안 설정
  - 각종 Security Group Port 오픈 / GitHub Repository 권한 설정 (done)
-
 (6) GitHub 에 최종 결과물 제출 (done)
   ```
