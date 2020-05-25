@@ -7,7 +7,7 @@ resource "aws_security_group" "imdjango" {
     from_port   = 22
     to_port     = 22
     protocol    = "tcp"
-    cidr_blocks = ["0.0.0.0/0"]
+    cidr_blocks = ["15.165.205.209/32"]
   }
 
   ingress {
